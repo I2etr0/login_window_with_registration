@@ -1,0 +1,15 @@
+D:\Dev\C#\MetroUI2.0\Metro\bin\Debug\Metro.exe.config
+D:\Dev\C#\MetroUI2.0\Metro\bin\Debug\Metro.exe
+D:\Dev\C#\MetroUI2.0\Metro\bin\Debug\Metro.pdb
+D:\Dev\C#\MetroUI2.0\Metro\bin\Debug\MetroFramework.Design.dll
+D:\Dev\C#\MetroUI2.0\Metro\bin\Debug\MetroFramework.dll
+D:\Dev\C#\MetroUI2.0\Metro\bin\Debug\MetroFramework.Fonts.dll
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.csprojAssemblyReference.cache
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.Form1.resources
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.Properties.Resources.resources
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.csproj.GenerateResource.cache
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.csproj.CopyComplete
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.exe
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.pdb
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.Form2.resources
+D:\Dev\C#\MetroUI2.0\Metro\obj\Debug\Metro.AboutBox1.resources
